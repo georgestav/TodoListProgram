@@ -1,0 +1,6 @@
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/bin/Debug/TodoListProgram.exe
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/bin/Debug/TodoListProgram.pdb
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/obj/Debug/TodoListProgram.csproj.AssemblyReference.cache
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/obj/Debug/TodoListProgram.csproj.CoreCompileInputs.cache
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/obj/Debug/TodoListProgram.exe
+/web/learning-proj/c-sharp/ConsoleApplication1/TodoListProgram/obj/Debug/TodoListProgram.pdb

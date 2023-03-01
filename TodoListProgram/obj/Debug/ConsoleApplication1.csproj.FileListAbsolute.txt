@@ -1,0 +1,6 @@
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/web/learning-proj/c-sharp/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
